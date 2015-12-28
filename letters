@@ -31,8 +31,8 @@ def count():
        
         else:
             d_let[i] = 1
-    for i in sorted(d_let):
-        print  d_let[i]*int(92000000/len1)
+    #for i in sorted(d_let):
+         #print  d_let[i]*int(92000000/len1)
 
 count()
 
